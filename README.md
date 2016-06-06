@@ -1,2 +1,2 @@
 # Adam's Test repositiory.
-Adam play with GitHub.
+Adam plays with GitHub.
